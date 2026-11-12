@@ -1,0 +1,16 @@
+Russian upper-subtitle atlas (assets/wa2_ru_subtitle.png)
+=========================================================
+
+The glyph images in wa2_ru_subtitle.png are a raster rendering made by
+tools/build_subtitle_atlas.py (module-045, task-170) so that Russian upper
+subtitles match the English patch's own subtitle atlas (todokanai/font.png),
+whose glyph shapes correspond to the typeface Georgia Italic.
+
+Source typeface: Georgia Italic, Version 2.05, (c) Microsoft Corporation.
+Georgia is a trademark of Microsoft Corporation.
+
+The font software itself is NOT included in this package. Only rendered
+bitmap glyphs (white fill, blue outline, as in the English atlas) are shipped.
+
+The previous Russian atlas (Liberation Mono, SIL Open Font License) is no
+longer used by this version.
